@@ -13,7 +13,6 @@ const useStyles = createUseStyles({
         fontSize: '24px',
         padding: '8px 32px',
         textAlign: 'center',
-        fontFamily: 'Bungee Inline'
     }
 })
 

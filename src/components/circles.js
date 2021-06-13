@@ -1,4 +1,4 @@
-import { getRandomNormal,getSeededRandom } from '@visx/mock-data'
+import { getSeededRandom } from '@visx/mock-data'
 
 const radiusRandom = getSeededRandom(0.2)
 const xRandom = getSeededRandom(0.3)
